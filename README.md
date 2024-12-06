@@ -7,7 +7,7 @@ This is a collection of ducky scripts to use on my own Flipper Zero deivce!
 ![GitHub Stars](https://img.shields.io/github/stars/jayden-hobbs/Flipper-Zero?style=for-the-badge&logo=github&color=blue)
 ![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Flipper-Zero?style=for-the-badge&logo=open-source-initiative&color=FF69B4&messageColor=white)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/jayden-hobbs/Flipper-Zero?style=for-the-badge&logo=git&color=yellow)
-![GitHub Total Commits](https://img.shields.io/static/v1?label=Commits&message=dynamic&color=brightgreen&style=for-the-badge&logo=git&labelColor=brightgreen)
+
 
 
 
