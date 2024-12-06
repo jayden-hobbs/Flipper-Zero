@@ -1,8 +1,8 @@
-# Flipper-Zero
+# Flipper-Zero 💻⚙️🧑‍💻
 
 This is a collection of ducky scripts to use on my own Flipper Zero deivce!
 
-## Repo Stats:
+## Repo Stats 📈📊⭐
 
 ![Total Commits](https://badgen.net/github/commits/jayden-hobbs/Flipper-Zero?style=flat-square&color=ff69b4&label=Total%20Commits)
 ![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Flipper-Zero?style=flat-square&color=greenlogo=open-source-initiative&label=License)
