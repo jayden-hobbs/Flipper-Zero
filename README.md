@@ -11,7 +11,7 @@ This is a collection of ducky scripts to use on my own Flipper Zero deivce!
 ![GitHub Total Commits](https://img.shields.io/endpoint?url=<your-custom-endpoint>&style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Flipper-Zero?style=flat-square&color=red&logo=open-source-initiative&label=License)
 ![GitHub Stars](https://img.shields.io/github/stars/jayden-hobbs/Flipper-Zero?style=flat-square&color=yellow&logo=github&label=Stars)
-
+![Last Commit](https://img.shields.io/github/last-commit/jayden-hobbs/Flipper-Zero?style=flat-square&color=blue&logo=git&label=Last%20Commit)
 
 
 
