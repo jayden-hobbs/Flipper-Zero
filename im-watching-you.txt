@@ -1,0 +1,8 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+STRING I'm watching you
+ENTER
