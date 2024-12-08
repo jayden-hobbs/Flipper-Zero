@@ -1,6 +1,7 @@
 # Flipper-Zero 💻⚙️🧑‍💻
 
 This is a collection of ducky scripts to use on my own Flipper Zero deivce! This mostly repo mainly consists of pranks using the BadKB or BadUSB app.
+Some of these are copied and modified and will be correctly refrenced whereas some will be made from scratch.
 
 ## Repo Stats 📈📊⭐
 
